@@ -1,0 +1,8 @@
+cluster:
+  k8sVersion: "1.20"
+  name: dev
+  owner: vfarcic
+  provider: google
+otomi:
+  adminPassword: admin
+  hasExternalDNS: false
